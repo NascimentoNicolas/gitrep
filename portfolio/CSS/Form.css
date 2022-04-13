@@ -1,0 +1,80 @@
+*
+			body {
+				background-image: url(./imagenscss/background2.jpg);
+				background-repeat: no-repeat;
+				background-size: cover;
+				background-position: center;
+				margin: auto;
+				width: 100%;
+			}
+			h3 {
+				margin: 1% 1% 1% 1%;
+				font-family: 'trebuchet ms', sans-serif;
+				text-align:center;
+				color: black;
+				font-size: 30px;
+			}
+			form {
+				margin: 1% 15% 1% 15%;
+				opacity: 95%;
+				background-color: white;
+				width: 70%;
+				font-size: 20px;
+				text-align: center;
+			 }
+			 #perguntas{ 
+			 	margin: 10px;
+			  }
+			.botao {
+				margin-top: 3%;
+				background-color: rgb(83, 227, 253);
+				font-size: 2rem;
+				width: 130px;
+				height: 50px;
+				border-radius: 10px;
+				margin-bottom: 20px;
+				font-family: 'trebuchet ms'; 
+			}
+			 .botao:hover {
+			 	background-color: rgb(128, 157, 250);
+			 }
+			 .botao:active {
+				background-color: rgb(47, 0, 255);
+			  }
+			  @media (max-width: 768px) {
+				
+				body{
+					background-image: url(./imagenscss/herois.jpg);
+					color: rgb(0, 0, 0);
+					height: auto;
+					width: 100%;
+				}
+				#text{
+					width: 70%;
+					height: 100px;
+				}
+				form{
+					border: 1px solid black;
+					border-radius: 2%;
+					font-size: 22px;
+				}
+			}
+			@media (max-width: 435px) {
+				
+				body{
+					background-image: url(./imagenscss/herois2.jpg);
+					color: rgb(0, 0, 0);
+					height: auto;
+					width: 100%;
+				}
+				form{
+					opacity: 90%;
+					width: 100%;
+					border-radius: 0%;
+					margin: 0% 0% 0% 0%;
+					font-size: 15px;
+				}
+				#text{
+					border: 2px solid black;
+				}
+			}

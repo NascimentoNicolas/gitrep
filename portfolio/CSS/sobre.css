@@ -1,0 +1,82 @@
+*
+section{
+    background-image: url('./imagenscss/701802.jpg');
+    background-repeat:round;
+    background-size: contain;
+    height: 700px;
+    width: 100%;
+    margin: 0% 0% 0% 0%;
+    padding-top: 3%;
+}
+article {
+background-color: #ffffff;
+opacity: 90%;
+border: solid 2px black;
+text-align: center;
+width: 40%;
+margin: 0% 30% 0% 30%;
+}
+#text{
+  height: 22px;
+}
+#feedback{
+  height: 60px;
+  width: 40%;
+}
+.botao {
+  background-color: rgb(83, 227, 253);
+  font-size: 20px;
+  width: 100px;
+  height: 60px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  font-family: 'trebuchet ms'; 
+  text-align: center;
+}
+ .botao:hover {
+   background-color: rgb(128, 157, 250);
+ }
+ .botao:active {
+   background-color: rgb(47, 0, 255);
+ }
+ @media (max-width: 768px) {
+				
+  section{
+    background-image: url(./imagenscss/homec.webp);
+    background-color: black;
+    color: rgb(0, 0, 0);
+    height: 965px;
+    width: 100%;
+  }
+  article {
+    width: 60%;
+    margin: 0% 20% 0% 20%;
+    height: auto;
+}
+  form{
+    padding-top: 30px;
+  }
+  #feedback {
+    height: 60px;
+    width: 70%;
+    border: 1px solid black;
+  }
+  #text{
+    border: 1px solid black;
+  }
+}
+@media (max-width: 435px) {
+
+  section{
+    background-image: url(./imagenscss/pattern.jpg);
+    color: rgb(0, 0, 0);
+    height: 600px;
+    width: 100%;
+  }
+  article{
+    width: 90%;
+    margin: 0% 5% 0% 5%;
+    height: auto;
+    opacity: 95%;
+  }
+}
