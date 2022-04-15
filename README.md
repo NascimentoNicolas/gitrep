@@ -5,6 +5,6 @@
 * aqui neste portfólio que estou desenvolvendo estou utilizando HTML e CSS para alcançar os meus objetivos dentro do Curso.
 ## Ferramenta:
 * para a execução dos meus programs utilizo a ferramenta 'Visual Studio Code'.
-é isto
+
 
 
