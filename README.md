@@ -1,8 +1,4 @@
-# gitrep
-
-    👋 Hi, I’m @NascimentoNicolas
-    👀 I’m interested in coding, basketball and video-games
-    🌱 I’m currently learning HTML, CSS, JavaScript and so much more to come!
-    💞️ I’m looking to collaborate with people who are available to teach and learn together
-    📫 Reach me in my linkedin https://www.linkedin.com/in/nicolas-henrique-silva-do-nascimento-892a34180/
+# Portfólio front-end
+## aqui em meu portfólio estou usando HTML e CSS como linguagens para o desenvolvimento de exercícios empenhados ao curso "Engenheiro front-end" da EBAC
+## estou utilizando a ferramenta 'Visual Studio Code' para o desenvolvimento do meu aprendizado dentro do curso 
 
